@@ -21,11 +21,7 @@
 
 Alternant en cybersécurité et administration réseau au sein du **Groupe Clinipole** 
 (secteur santé), en formation **Mastère Expert en Cybersécurité** 
-au CESI de Montpellier.
-
-Je supervise +500 équipements sous Zabbix, administre une infrastructure vSphere 
-(6 ESXi, 40 VM), gère les accès NAC via ClearPass et les règles de filtrage Fortinet. 
-Je documente ici mes projets.
+au CESI de Montpellier. Je documente ici mes projets.
 
 ---
 
