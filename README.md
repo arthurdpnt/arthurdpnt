@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">
+  Arthur Dupont
+</h1>
 
-<!--
-**arthurdpnt/arthurdpnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Alternant Cybersécurité & Administration Réseau</b><br/>
+  Mastère CESI Montpellier · Groupe Clinipole · 2025–2027
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthur-dupont">
+    <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Dupont-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Statut-En%20alternance-22c55e?style=flat" />
+  <img src="https://img.shields.io/badge/Localisation-Montpellier%2C%20France-6366f1?style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 Qui suis-je ?
+
+Alternant en cybersécurité et administration réseau au sein du **Groupe Clinipole** (secteur santé, ~900 utilisateurs), en formation **Mastère Expert en Cybersécurité** au CESI de Montpellier.
+
+J'administre une infrastructure virtualisée sous vSphere (6 ESXi, 40 VM) et je construis des projets orientés sécurité réseau, SSO et supervision — que je documente ici.
+
+---
+
+### 🛠️ Stack
+
+**Réseau & Sécurité**
+
+![pfSense](https://img.shields.io/badge/pfSense-013365?style=flat&logo=pfsense&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-VLAN-6366f1?style=flat)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
+
+**Systèmes & Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=flat&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
+![VMware vSphere](https://img.shields.io/badge/vSphere%20%2F%20ESXi-607078?style=flat&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Outils**
+
+![GNS3](https://img.shields.io/badge/GNS3-FF6600?style=flat)
+![GLPI](https://img.shields.io/badge/GLPI-FF6600?style=flat)
+![GoPhish](https://img.shields.io/badge/GoPhish-333333?style=flat)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+---
+
+### 📌 Projets
+
+| Dépôt | Description |
+|-------|-------------|
+| [pfsense-failover-ha](https://github.com/arthurdpnt/pfsense-failover-ha) | Infrastructure pfSense en haute disponibilité — cluster actif/passif, CARP, dual-WAN failover |
+| [gophish-setup](https://github.com/arthurdpnt/gophish-setup) | Campagne de phishing interne sur 82 collaborateurs — 87% d'ouverture, 8 identifiants capturés |
+| [oxidized-sso-keycloak](https://github.com/arthurdpnt/oxidized-sso-keycloak) | Sauvegarde des configs réseau (50+ équipements) avec SSO Keycloak + oauth2-proxy + AD |
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurdpnt&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdpnt&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
