@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthur-dupont">
+  <a href="https://www.linkedin.com/in/arthur-dp/">
     <img src="https://img.shields.io/badge/LinkedIn-Arthur%20Dupont-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Statut-En%20alternance-22c55e?style=flat" />
@@ -20,12 +20,12 @@
 ### 👋 Qui suis-je ?
 
 Alternant en cybersécurité et administration réseau au sein du **Groupe Clinipole** 
-(secteur santé, ~900 utilisateurs), en formation **Mastère Expert en Cybersécurité** 
+(secteur santé), en formation **Mastère Expert en Cybersécurité** 
 au CESI de Montpellier.
 
 Je supervise +500 équipements sous Zabbix, administre une infrastructure vSphere 
 (6 ESXi, 40 VM), gère les accès NAC via ClearPass et les règles de filtrage Fortinet. 
-Je documente ici mes déploiements en sécurité réseau et SSO.
+Je documente ici mes projets.
 
 ---
 
@@ -67,12 +67,3 @@ Je documente ici mes déploiements en sécurité réseau et SSO.
 | [pfsense-failover-ha](https://github.com/arthurdpnt/pfsense-failover-ha) | Infrastructure pfSense en haute disponibilité — cluster actif/passif, CARP, dual-WAN failover |
 | [gophish-setup](https://github.com/arthurdpnt/gophish-setup) | Campagne de phishing interne sur 82 collaborateurs — 87% d'ouverture, 8 identifiants capturés |
 | [oxidized-sso-keycloak](https://github.com/arthurdpnt/oxidized-sso-keycloak) | Sauvegarde des configs réseau (50+ équipements) avec SSO Keycloak + oauth2-proxy + AD |
-
----
-
-### 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurdpnt&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurdpnt&layout=compact&theme=dark&hide_border=true" height="150" />
-</p>
