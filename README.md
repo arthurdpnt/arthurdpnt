@@ -19,9 +19,13 @@
 
 ### 👋 Qui suis-je ?
 
-Alternant en cybersécurité et administration réseau au sein du **Groupe Clinipole** (secteur santé, ~900 utilisateurs), en formation **Mastère Expert en Cybersécurité** au CESI de Montpellier.
+Alternant en cybersécurité et administration réseau au sein du **Groupe Clinipole** 
+(secteur santé, ~900 utilisateurs), en formation **Mastère Expert en Cybersécurité** 
+au CESI de Montpellier.
 
-J'administre une infrastructure virtualisée sous vSphere (6 ESXi, 40 VM) et je construis des projets orientés sécurité réseau, SSO et supervision — que je documente ici.
+Je supervise +500 équipements sous Zabbix, administre une infrastructure vSphere 
+(6 ESXi, 40 VM), gère les accès NAC via ClearPass et les règles de filtrage Fortinet. 
+Je documente ici mes déploiements en sécurité réseau et SSO.
 
 ---
 
@@ -34,6 +38,7 @@ J'administre une infrastructure virtualisée sous vSphere (6 ESXi, 40 VM) et je 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![VPN](https://img.shields.io/badge/VPN-VLAN-6366f1?style=flat)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat&logo=zabbix&logoColor=white)
+![ClearPass](https://img.shields.io/badge/ClearPass-NAC-EE3124?style=flat)
 
 **Systèmes & Infrastructure**
 
@@ -51,6 +56,7 @@ J'administre une infrastructure virtualisée sous vSphere (6 ESXi, 40 VM) et je 
 ![GoPhish](https://img.shields.io/badge/GoPhish-333333?style=flat)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![NetAlertX](https://img.shields.io/badge/NetAlertX-333333?style=flat)
 
 ---
 
