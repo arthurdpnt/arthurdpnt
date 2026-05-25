@@ -20,7 +20,7 @@
 ### 👋 Qui suis-je ?
 
 Alternant en cybersécurité et administration réseau au sein du **Groupe Clinipole** 
-(secteur santé), en formation **Mastère Expert en Cybersécurité** 
+(secteur santé), en formation **Mastère Manager en Infrastructures et Cybersécurité des SI** 
 au CESI de Montpellier. Je documente ici mes projets.
 
 ---
