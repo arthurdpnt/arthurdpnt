@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>Alternant Cybersécurité & Administration Réseau</b><br/>
-  Mastère CESI Montpellier · Groupe Clinipole · 2025–2027
+  Mastère CESI Montpellier · Groupe Clinipole · 2025-2027
 </p>
 
 <p align="center">
@@ -60,6 +60,6 @@ au CESI de Montpellier. Je documente ici mes projets.
 
 | Dépôt | Description |
 |-------|-------------|
-| [pfsense-failover-ha](https://github.com/arthurdpnt/pfsense-failover-ha) | Infrastructure pfSense en haute disponibilité — cluster actif/passif, CARP, dual-WAN failover |
-| [gophish-setup](https://github.com/arthurdpnt/gophish-setup) | Campagne de phishing interne sur 82 collaborateurs — 87% d'ouverture, 8 identifiants capturés |
+| [pfsense-failover-ha](https://github.com/arthurdpnt/pfsense-failover-ha) | Infrastructure pfSense en haute disponibilité - cluster actif/passif, CARP, dual-WAN failover |
+| [gophish-setup](https://github.com/arthurdpnt/gophish-setup) | Campagne de phishing interne sur 82 collaborateurs - 87% d'ouverture, 8 identifiants capturés |
 | [oxidized-sso-keycloak](https://github.com/arthurdpnt/oxidized-sso-keycloak) | Sauvegarde des configs réseau (50+ équipements) avec SSO Keycloak + oauth2-proxy + AD |
