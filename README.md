@@ -19,7 +19,7 @@
 
 ### 👋 Qui suis-je ?
 
-Alternant en cybersécurité et administration réseau au sein de **Veolia Eau France **, en formation **Mastère Manager en Infrastructures et Cybersécurité des SI** 
+Alternant en cybersécurité et administration réseau au sein de **Veolia Eau France**, en formation **Mastère Manager en Infrastructures et Cybersécurité des SI** 
 au CESI de Montpellier. Je documente ici mes projets.
 
 ---
