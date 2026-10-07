@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <b>Alternant Cybersécurité & Administration Réseau</b><br/>
-  Mastère CESI Montpellier · Groupe Clinipole · 2025-2027
+  <b>Alternant Cybersécurité</b><br/>
+  Mastère CESI Montpellier · Veolia Eau France · 2025-2027
 </p>
 
 <p align="center">
@@ -19,8 +19,7 @@
 
 ### 👋 Qui suis-je ?
 
-Alternant en cybersécurité et administration réseau au sein du **Groupe Clinipole** 
-(secteur santé), en formation **Mastère Manager en Infrastructures et Cybersécurité des SI** 
+Alternant en cybersécurité et administration réseau au sein de **Veolia Eau France **, en formation **Mastère Manager en Infrastructures et Cybersécurité des SI** 
 au CESI de Montpellier. Je documente ici mes projets.
 
 ---
